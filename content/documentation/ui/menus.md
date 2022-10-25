@@ -7,7 +7,7 @@ weight = 5
 ## Menu flowchart
 The user can navigate through arrows to get to different menus
 
-![](../menu_flowchart.png)
+![](/images/menu_flowchart.png)
 
 \* Settings can go back to whatever menu it was traveled to from
 
