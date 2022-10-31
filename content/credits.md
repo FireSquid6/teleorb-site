@@ -6,7 +6,11 @@ draft: false
 
 
 **Teleorb is a game created by:** 
-  
+### Primary Contributors
 #### Jonathan Deiss (aka FireSquid) 
 - Project Lead
 - Primary Programmer
+
+### Others
+#### Dream Mix
+- Provided [assets for keys](https://dreammix.itch.io/keyboard-keys-for-ui)
