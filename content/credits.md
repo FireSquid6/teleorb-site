@@ -13,4 +13,4 @@ draft: false
 
 ### Others
 #### Dream Mix
-- Provided [assets for keys](https://dreammix.itch.io/keyboard-keys-for-ui)
+- Provided [assets for input hints](https://dreammix.itch.io/keyboard-keys-for-ui)
