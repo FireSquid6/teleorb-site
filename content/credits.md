@@ -12,5 +12,5 @@ draft: false
 - Primary Programmer
 
 ### Others
-#### Dream Mix
-- Provided [assets for input hints](https://dreammix.itch.io/keyboard-keys-for-ui)
+#### Brastin
+- Provided [assets for input hints](https://brastin3.itch.io/controller-icons)
