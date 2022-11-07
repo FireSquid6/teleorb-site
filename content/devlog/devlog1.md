@@ -1,11 +1,11 @@
 +++
-title = "Week One"
+title = "Devlog 1"
 date =  2022-10-23T21:35:38-05:00
 weight = 5
 +++
 Author: FireSquid (Jonathan Deiss)
 
-### 10/17/22 - 10/23/22
+### 10/17/22 - 10/30/22
 The past few weeks have been all fundamental game mechanics or large underlying systems, so this week I decided to take a break from that. A lot of the issues for Alpha 2 are background or lighting related, so I focused on that as well as learning some new skills. 
 
 ### Background Tileset
@@ -111,6 +111,6 @@ func should_fill_pixel(image: Image, x: int, y: int) -> bool:
 
 
 ### Download
-There's no new build this week, as the game has not hit a new milestone. As always, you can visit the [downloads page](../../download) to download and play the latest stable version. All feedback is greatly appreciated.
+There's no new build this devlog, as the game has not hit a new milestone. As always, you can visit the [downloads page](../../download) to download and play the latest stable version. All feedback is greatly appreciated.
 
 As always, if you would like to contribute, the repo is [here](https://github.com/firesquid6/teleorb).

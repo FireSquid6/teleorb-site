@@ -6,7 +6,11 @@ draft: false
 
 
 **Teleorb is a game created by:** 
-  
+### Primary Contributors
 #### Jonathan Deiss (aka FireSquid) 
 - Project Lead
 - Primary Programmer
+
+### Others
+#### Brastin
+- Provided [assets for input hints](https://brastin3.itch.io/controller-icons)
